@@ -29,16 +29,16 @@ author:
   bio              : "Professor at Columbia University | kaiser@cs.columbia.edu"
   location         : "Earth"
   employer         : "Columbia University"
-  uri              : # URL
+  uri              : "https://www.cs.columbia.edu/~kaiser/"
   email            : "mailto:kaiser@cs.columbia.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "LIdVlPsAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=LIdVlPsAAAAJ&hl"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "0000-0002-8791-1178"
+  orcid            : "https://orcid.org/0000-0002-8791-1178"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
