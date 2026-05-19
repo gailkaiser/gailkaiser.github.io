@@ -23,7 +23,7 @@ repository               : "gailkaiser/gailkaiser.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/grad-school.png"
+  avatar           : "grad-school.png"
   name             : "Gail"
   pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
