@@ -23,14 +23,14 @@ repository               : "gailkaiser/gailkaiser.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  avatar           : "grad-school.png"
+  name             : "Gail"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Columbia University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kaiser@cs.columbia.edu" 
 
   # Academic websites
   academia         : # URL
